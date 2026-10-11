@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740975555702",
+    "firebase_url": "https://wafatti-messenger-666-default-rtdb.firebaseio.com",
+    "project_id": "wafatti-messenger-666",
+    "storage_bucket": "wafatti-messenger-666.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740975555702:android:c8eaeaa6ac38497e0e5b57",
+        "android_client_info": {
+          "package_name": "com.aj.wafatti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740975555702-ii1p5td35p6k0akv6vj7oebl7eqgf0di.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aj.wafatti",
+            "certificate_hash": "8acbf80b573571223758839eea979f761d528b1a"
+          }
+        },
+        {
+          "client_id": "740975555702-njgcigrdk0vu2bqcu1fnssotqd6phc98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKhaMqfV4jHD_v0oKnREnOFK6emgm370I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740975555702-njgcigrdk0vu2bqcu1fnssotqd6phc98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
